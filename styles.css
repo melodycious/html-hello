@@ -1,0 +1,56 @@
+body {
+    margin:0%;
+}
+
+header {
+    background-color: white;
+    text-align: center;
+}  
+
+section {
+    background-color: #fafafa;
+    padding-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+
+}  
+
+.post {
+    margin:auto;
+    background: white;
+    width: 500px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    border: 1px solid #EDEEEE;
+    border-radius: 10px;
+
+}
+
+img {
+    width: 100%;
+}
+
+.post .header {
+    background: white;
+    padding: 8px;
+
+}
+.post .header h2 {
+    margin: 0%;
+    font-size: 16px;
+}
+
+.post .header .date {
+    float: right;
+    margin: 0%;
+    margin-top: -20px;
+    color:darkgray;
+    font-size: 14px;
+}
+.post .body {
+    padding: 8px;
+}
